@@ -6,5 +6,10 @@ namespace Hotel
         {
             InitializeComponent();
         }
+
+        private void cmb_n1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
